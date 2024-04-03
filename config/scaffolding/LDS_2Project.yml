@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: LDS_2Project
+  gitServerName: test
+  gitUrl: https://github.com/pnagar1705/LDS_2Project
+  gitUsername: pnagar1705
+  gitBranch: main
